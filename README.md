@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/b06de79b-80cf-4e15-8120-2af90880331c)
+
+
 # 🌐 Site Institucional - Dr. Hernandes Pereira | Advogado
 
 Este repositório contém o código-fonte do site institucional do advogado **Dr. Hernandes Pereira**, especializado em diversas áreas do Direito. O objetivo do projeto é oferecer uma presença digital profissional, clara e acessível para clientes em potencial, integrando canais de comunicação, credibilidade e serviços jurídicos.
